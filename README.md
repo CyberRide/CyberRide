@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberRide
 - 👀 I’m interested in Hacking , Networking and Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://web.facebook.com/CyberRide
 
