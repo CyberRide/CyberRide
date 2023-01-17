@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 👋 Hi, I’m @CyberRide
 - 👀 I’m interested in Hacking , Networking and Programming
 - 🌱 I’m currently learning c#
