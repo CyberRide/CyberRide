@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 - 👋 Hi, I’m @CyberRide
-- I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- 👋 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 📫 How to reach me https://web.facebook.com/CyberRide
 - ### :hammer_and_wrench: Languages and Tools :
 - <div>
