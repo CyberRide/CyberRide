@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 - 👋 Hi, I’m @CyberRide
-- 👋 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 📫 How to reach me https://web.facebook.com/CyberRide
 - ### :hammer_and_wrench: Languages and Tools :
 - <div>
@@ -37,9 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ### :fire: My Stats :
-[![GitHub Streak] 
->   <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberRide&theme=monokai&hide_border=true&background=000000"/>
-[![Top Langs]   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberRide&layout=compact&theme=vision-friendly-dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CyberRide&theme=monokai&hide_border=true&background=000000"/>
+
 <!---
 CyberRide/CyberRide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
