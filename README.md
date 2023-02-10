@@ -8,23 +8,21 @@
 
 ![A passionate Python Developer from Nigeria ](https://pbs.twimg.com/profile_banners/1403085419380327/150353181/1080x30)
 
-I Studied statistics in college it's why I'm so passionate about data and machine learning
+I am a software engineering student at Aptech Computer Education
 
-Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
+Skills: Python, CSS, HTML, Bootstrap, Flask, C#, and Java, SQL
 
-- 🔭 I’m currently working on My Porfolio website using React
-- 🌱 I’m currently learning React for advance web development
-- 👯 I’m looking to collaborate on Machine Learning project, AI and Software development
-- 💬 Ask me about Data Analysis, Python, Data Visualization, Machine learning
+- 🔭 I am currently working on my portfolio using Python and the Flask framework.
+- 🌱 I am constantly expanding my knowledge by learning the Django framework.
+- 👯 I am passionate about developing software and I am always looking for opportunities to collaborate on projects, especially those involving Python
+- 💬 I welcome discussions about Python, data visualization, and machine learning.
 
 #### 📫 How to reach me:
-
-<a href="https://discord.gg/B83d9xzg" target="_blank"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/> &nbsp; <a href="https://twitter.com/CyberRide_A9" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/> &nbsp; <a href="https://www.linkedin.com/in/CyberRide-alaran/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/> &nbsp; <a href="mailto:CyberRidedele00@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<a href="https://twitter.com/CyberRide01" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/> &nbsp; <a href="https://www.linkedin.com/in/david-okunola-51266718b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/> &nbsp; <a href="mailto:okunolaope98@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 #### 👨🏻‍💻 Languages and Tools <br />
 
- <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+ <div align="center">   
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -77,17 +75,8 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 ; **Hands-On-Practice:**
 
 ; <p align="left">
-;   <a href="https://github.com/CyberRide/Hands-On-Practice"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=Hands-On-Practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
 ;   <a href="https://github.com/CyberRide/alx-low_level_programming"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
 ;   <a href="https://github.com/CyberRide/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
-;   <a href="https://github.com/CyberRide/CS50"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=CS50&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="CS50"></a>
-; </p>
-
-; **Projects I've Contributed To**
-
-; <p align="left">
-; <a href="https://github.com/LOVE-DOCTOR/MultiTrain"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=LOVE-DOCTOR&repo=MultiTrain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="MultiTrain"></a>
-; <a href="https://github.com/bregman-arie/devops-exercises"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=bregman-arie&repo=devops-exercises&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="devops-exercises"></a>
 ; </p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
