@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-![A passionate Python Developer from Nigeria ](https://pbs.twimg.com/profile_banners/1403085419380327/150353181/1080x30)
+![A passionate Python Developer from Nigeria ]
 
 I am a software engineering student at Aptech Computer Education
 
@@ -51,12 +51,11 @@ Skills: Python, CSS, HTML, Bootstrap, Flask, C#, and Java, SQL
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 </div>
-; **Hands-On-Practice:**
-
-; <p align="left">
-;   <a href="https://github.com/CyberRide/alx-low_level_programming"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
-;   <a href="https://github.com/CyberRide/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
-; </p>
+  **Hands-On-Practice:**
+<p align="left">
+<a href="https://github.com/CyberRide/alx-low_level_programming"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
+<a href="https://github.com/CyberRide/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
+</p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
