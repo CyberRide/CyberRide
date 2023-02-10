@@ -51,27 +51,6 @@ Skills: Python, CSS, HTML, Bootstrap, Flask, C#, and Java, SQL
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 </div>
-
-; # Main projects
-
-; **Data Science and ML Case Study Projects:**
-
-; <p align="left">
-; <a href="https://github.com/CyberRide/Youtube-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
-;   <a href="https://github.com/CyberRide/Tweet-Data-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=Tweet-Data-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="Tweet-Data-Analysis"></a>
-;     <a href="https://github.com/CyberRide/Communicating_Findings_With_Viz"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=Communicating_Findings_With_Viz&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="Communicating_Findings_With_Viz"></a>
-;   <a href="https://github.com/CyberRide/ProjectCollaboration.github.io"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=ProjectCollaboration.github.io&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&theme=react&show_icons=false" alt="ProjectCollaboration.github.io"></a>
-;   <a href="https://github.com/CyberRide/Data_Detective"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=Data_Detective&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="Data_Detective"></a>
-;   <a href="https://github.com/CyberRide/Exploratory-Data-Analysis-in-Finance"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=Exploratory-Data-Analysis-in-Finance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="Exploratory-Data-Analysis-in-Finance"></a>
-; </p>
-
-; **Sotware Development Projects:**
-
-; <p align="left">
-;   <a href="https://github.com/CyberRide/simple-shell"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=simple-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="simple-shell"></a>
-;   <a href="https://github.com/CyberRide/portfolio"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=CyberRide&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8&hide_border=true&show_icons=false" alt="portfolio"></a>
-; </p>
-
 ; **Hands-On-Practice:**
 
 ; <p align="left">
@@ -94,7 +73,3 @@ Skills: Python, CSS, HTML, Bootstrap, Flask, C#, and Java, SQL
 ![GitHub metrics](https://metrics.lecoq.io/CyberRide)
 
  <br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ho2xjpfdxbdibf34brjmp7lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
-
-![Profile views](https://gpvc.arturio.dev/CyberRide)
