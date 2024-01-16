@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberRide)
 <!--- Title -->
 <h1 align="center">Hey, I'm CyberRide 👋</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=CyberRide)
 <!--- Introduction -->
 <p align="center">I am a recent graduate of Aptech Computer Education in Nigeria, where I studied software engineering. With a passion for developing software using Python, I am constantly seeking opportunities to collaborate on projects and expand my knowledge in software development. I have experience with HTML/CSS/Bootstrap, Flask, C#, Java, SQL, Git and Linux server administration. I am confident in my skills and eager to contribute to the software development industry.</p>
 
