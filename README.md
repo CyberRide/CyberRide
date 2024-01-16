@@ -2,9 +2,8 @@
 <h1 align="center">Hey, I'm CyberRide 👋</h1>
 <!--- Introduction -->
 <p align="center">I am a recent graduate of Aptech Computer Education in Nigeria, where I studied software engineering. With a passion for developing software using Python, I am constantly seeking opportunities to collaborate on projects and expand my knowledge in software development. I have experience with HTML/CSS/Bootstrap, Flask, C#, Java, SQL, Git and Linux server administration. I am confident in my skills and eager to contribute to the software development industry.</p>
-<!--- Skills -->
-<h2 align="center">🚀 Skills</h2>
-<p align="center">Python | HTML/CSS/Bootstrap | Flask | C# | Java | SQL | Git</p>
+
+
 - 🎪 [Visual Portfolio](#)
 - 🚩 [Website](#)
 - 🔭 I’m currently working as Freelancer 💻
@@ -13,6 +12,10 @@
 - 🤔 I’m looking for help with Open Source Project Development 
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
 - 🎆 I'm Open for New Opportunities.
+- <!--- Skills -->
+<h2 align="center">🚀 Skills</h2>
+<p align="center">Python | HTML/CSS/Bootstrap | Flask | C# | Java | SQL | Git</p>
+
 <!--- Projects -->
 <h2 align="center">💻 Projects</h2>
 <div align="center">
