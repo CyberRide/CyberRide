@@ -1,5 +1,6 @@
 <!--- Title -->
 <h1 align="center">Hey, I'm CyberRide 👋</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=CyberRide)
 <!--- Introduction -->
 <p align="center">I am a recent graduate of Aptech Computer Education in Nigeria, where I studied software engineering. With a passion for developing software using Python, I am constantly seeking opportunities to collaborate on projects and expand my knowledge in software development. I have experience with HTML/CSS/Bootstrap, Flask, C#, Java, SQL, Git and Linux server administration. I am confident in my skills and eager to contribute to the software development industry.</p>
 
@@ -29,7 +30,4 @@
 <!--- How to Reach Me -->
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">You can reach me via email at okunolaope98@gmail.com or connect with me on <a href="https://www.linkedin.com/in/david-okunola-51266718b/" target="_blank">LinkedIn</a>, <a href="https://facebook.com/CyberRide" target="_blank">Facebook</a> and <a href="https://twitter.com/CyberRide01" target="_blank">Twitter</a>.</p>
-<!--- Visitors Badge -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CyberRide.CyberRide" alt="visitors">
-</p>
+
