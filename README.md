@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=CyberRide)
 <!--- Title -->
 <h1 align="center">Hey, I'm CyberRide 👋</h1>
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberRide)
