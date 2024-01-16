@@ -5,6 +5,14 @@
 <!--- Skills -->
 <h2 align="center">🚀 Skills</h2>
 <p align="center">Python | HTML/CSS/Bootstrap | Flask | C# | Java | SQL | Git</p>
+- 🎪 [Visual Portfolio](#)
+- 🚩 [Website](#)
+- 🔭 I’m currently working as Freelancer 💻
+- 🌱 I’m currently learning Full Stack Development , NextJS, GraphQL
+- 👯 I’m looking to collaborate on any cool Project
+- 🤔 I’m looking for help with Open Source Project Development 
+- ⚡ Fun fact: Caffeine helps me Code.. ☕
+- 🎆 I'm Open for New Opportunities.
 <!--- Projects -->
 <h2 align="center">💻 Projects</h2>
 <div align="center">
