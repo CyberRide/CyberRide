@@ -20,6 +20,11 @@
 <!--- Projects -->
 <h2 align="center">💻 Projects</h2>
 <div align="center">
+  <a href="https://github.com/CyberRide/OIBSIP.git" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberRide&repo=OIBSIP&show_owner=true&theme=radical" alt="OIBSIP">
+  </a>
+</div>
+<div align="center">
   <a href="https://github.com/CyberRide/ChatGptClone" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberRide&repo=ChatGptClone&show_owner=true&theme=radical" alt="ChatGPT Clone">
   </a>
