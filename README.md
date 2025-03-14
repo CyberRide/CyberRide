@@ -34,5 +34,5 @@
 <p align="center">I'm constantly expanding my knowledge by learning the Django framework and exploring machine learning concepts. Currently, I'm also focusing on learning React to build modern and interactive user interfaces for web applications.</p>
 <!--- How to Reach Me -->
 <h2 align="center">📫 How to Reach Me</h2>
-<p align="center">You can reach me via email at okunolaope98@gmail.com or connect with me on <a href="https://www.linkedin.com/in/david-okunola-51266718b/" target="_blank">LinkedIn</a>, <a href="https://facebook.com/CyberRide" target="_blank">Facebook</a> and <a href="https://twitter.com/CyberRide01" target="_blank">Twitter</a>.</p>
+<p align="center">You can reach me via email at okunoladavid02@gmail.com or connect with me on <a href="https://www.linkedin.com/in/david-okunola-51266718b/" target="_blank">LinkedIn</a>, <a href="https://facebook.com/CyberRide" target="_blank">Facebook</a> and <a href="https://twitter.com/CyberRide01" target="_blank">Twitter</a>.</p>
 
